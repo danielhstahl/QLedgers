@@ -1,6 +1,6 @@
 ## To start 7nodes script
 
-Note that I've modified the scripts for the quorum-examples.  See [my forked repo](https://github.com/phillyfan1138/quorum-examples).
+Note that I've modified the scripts for the quorum-examples.  See [my forked repo](https://github.com/phillyfan1138/quorum-examples).  Requires this fork. 
 
 The following are how my binaries are set up:
 * geth and bootnode are in $GOPATH/bin, see [setupQuorum.sh](./setupQuorum.sh)
