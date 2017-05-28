@@ -8,7 +8,9 @@ The following are how my binaries are set up:
 
 Run `./setupQuorum.sh` to create the binaries in the go bin.
 
-Run `./startChain.sh` to start the chain.  Note that it may show a "Error: Non-200 status cdoe" but that this seems to not actually be a problem.
+Run `./startChain.sh` to start the chain.  
+
+To get started, see [the Truffle Tutorial](http://truffleframework.com/tutorials/building-dapps-for-quorum-private-enterprise-blockchains) and [the QTruffle repo](https://github.com/phillyfan1138/QTruffle).
 
 ## To generate quorum-genesis.json-depricated for now
 
